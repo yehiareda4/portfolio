@@ -37,7 +37,7 @@
   ];
 
   const CAT = {
-    ride:    { en:'Ride‑hailing', ar:'نقل ركاب',  c:'#6366F1' },
+    ride:    { en:'Ride‑hailing', ar:'نقل ركاب',  c:'#10B981' },
     delivery:{ en:'Delivery',     ar:'توصيل',     c:'#06B6D4' },
     fintech: { en:'Fintech',      ar:'مالية',     c:'#22C55E' },
     health:  { en:'Healthcare',   ar:'صحة',       c:'#EC4899' },
