@@ -188,7 +188,7 @@
     }
     .phone-screen {
       width: 100%; height: 100%; border-radius: 28px; overflow: hidden; position: relative;
-      background: linear-gradient(160deg, #0b0b16, #15152a); display: flex; flex-direction: column;
+      background: linear-gradient(160deg, #07150f, #0d2419); display: flex; flex-direction: column;
     }
     .phone-top { height: 26px; display: grid; place-items: center; }
     .phone-notch { width: 80px; height: 6px; border-radius: 999px; background: rgba(255,255,255,.18); }
