@@ -181,7 +181,9 @@
     .device-stack { position: relative; display: grid; place-items: center; }
     .phone {
       width: 252px; aspect-ratio: 9/19; border-radius: 38px; padding: 12px;
-      background: var(--glass-2); border: 1px solid var(--glass-brd-hl); box-shadow: var(--shadow);
+      background: linear-gradient(160deg, #103a2a, #0a1f17);
+      border: 1px solid rgba(16,185,129,.55);
+      box-shadow: 0 24px 60px -18px rgba(16,185,129,.45), 0 0 0 1px rgba(16,185,129,.12) inset;
       backdrop-filter: blur(20px); position: relative; z-index: 2;
     }
     .phone-screen {
