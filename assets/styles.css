@@ -194,8 +194,8 @@
     .pmap { flex: 1; border-radius: 16px; background: #0e0e1d; position: relative; overflow: hidden; }
     .pmap #ridemap { position: absolute; inset: 0; border-radius: 16px; z-index: 1; background: transparent; }
     .leaflet-container { font-family: var(--font); background: transparent; }
-    [data-theme="dark"] .pmap { background: #0a1410; }
-    [data-theme="dark"] .leaflet-tile { filter: invert(1) brightness(0.42) contrast(1.12) sepia(1) hue-rotate(90deg) saturate(2.4); }
+    [data-theme="dark"] .pmap { background: #112a20; }
+    [data-theme="dark"] .leaflet-tile { filter: invert(1) brightness(0.85) contrast(0.95) sepia(1) hue-rotate(90deg) saturate(1.8); }
     .leaflet-control-attribution {
       font-size: 8px; line-height: 1.5; padding: 1px 6px 1px 5px; border-top-left-radius: 8px;
       background: rgba(13,13,24,.42); color: rgba(255,255,255,.6); margin: 0 !important;
