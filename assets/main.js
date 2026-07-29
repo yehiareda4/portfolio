@@ -6,7 +6,6 @@
 
   /* ============ STORE MERGE ============ */
   const PKG_MAP = {
-    'Ekhsemli':'com.headshot.discountforme',
     'King Salman Social Center':'com.aait.kssc',
     'Morsaal Awamer':'com.aait.marsol',
     'Lyakon User':'com.aait.lyakon.user',
